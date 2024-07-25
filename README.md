@@ -9,12 +9,12 @@ Make sure you have Python installed. You will also need to install the following
 
 colorgram.py
 turtle
-##You can install the required libraries using pip:
+#You can install the required libraries using pip:
 
 bash
 Copy code
 pip install colorgram.py
-##How to Run
+#How to Run
 Clone this repository to your local machine.
 Place an image named image.jpg in the project directory.
 Run the script:
@@ -30,5 +30,5 @@ The turtle library for making it easy to create graphics in Python.
 ##Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-##Contact
-For any questions or suggestions, please contact
+#Contact
+For any questions or suggestions, please contact aaryangupta.5051@gmail.com
